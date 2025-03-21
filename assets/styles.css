@@ -1,0 +1,31 @@
+/* Gradient Background */
+body {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Container Styling */
+.login-container {
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Card Styling */
+.login-card {
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    background: #fff;
+}
+
+/* Button Animation */
+.btn {
+    transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
