@@ -75,7 +75,7 @@ User authentication page for admin and staff access with session validation and 
 
 ## 📝 Register Page
 <p align="center">
-  <img src="Register.png" width="800">
+  <img src="images/Register.png" width="800">
 </p>
 
 Registration page used by staff or admin to create a new system account.
@@ -84,7 +84,7 @@ Registration page used by staff or admin to create a new system account.
 
 ## 📊 Dashboard
 <p align="center">
-  <img src="Dashboard.png" width="800">
+  <img src="images/Dashboard.png" width="800">
 </p>
 
 Main dashboard displaying customer statistics, invoice delivery information, and navigation menus.
@@ -93,7 +93,7 @@ Main dashboard displaying customer statistics, invoice delivery information, and
 
 ## 👥 Customer Data Page
 <p align="center">
-  <img src="Halaman Data Pelanggan.png" width="800">
+  <img src="images/Halaman Data Pelanggan.png" width="800">
 </p>
 
 Displays all PLN customer data including customer information, email list, and invoice management features.
@@ -102,7 +102,7 @@ Displays all PLN customer data including customer information, email list, and i
 
 ## ➕ Add Customer Data
 <p align="center">
-  <img src="Tambah Data Pelanggan.png" width="800">
+  <img src="images/Tambah Data Pelanggan.png" width="800">
 </p>
 
 Feature used to add new PLN customer data into the system database.
@@ -111,7 +111,7 @@ Feature used to add new PLN customer data into the system database.
 
 ## 🪟 Add Customer Popup
 <p align="center">
-  <img src="PopUp Tambah Data Pelanggan.png" width="800">
+  <img src="images/PopUp Tambah Data Pelanggan.png" width="800">
 </p>
 
 Popup form interface for quickly adding customer data directly from the customer management page.
@@ -120,7 +120,7 @@ Popup form interface for quickly adding customer data directly from the customer
 
 ## ✏️ Edit Customer Data
 <p align="center">
-  <img src="Edit Data Pelanggan.png" width="800">
+  <img src="images/Edit Data Pelanggan.png" width="800">
 </p>
 
 Allows admin or staff to update customer information and manage active email addresses.
@@ -129,7 +129,7 @@ Allows admin or staff to update customer information and manage active email add
 
 ## ⚠️ Delete Confirmation Popup
 <p align="center">
-  <img src="Konfirmasi Hapus Data.png" width="800">
+  <img src="images/Konfirmasi Hapus Data.png" width="800">
 </p>
 
 Confirmation dialog displayed before permanently deleting customer data from the system.
@@ -138,7 +138,7 @@ Confirmation dialog displayed before permanently deleting customer data from the
 
 ## 📤 Upload Invoice Popup
 <p align="center">
-  <img src="PopUp Upload Invoice.png" width="800">
+  <img src="images/PopUp Upload Invoice.png" width="800">
 </p>
 
 Popup interface used to upload monthly electricity invoice files linked to customer data.
@@ -147,7 +147,7 @@ Popup interface used to upload monthly electricity invoice files linked to custo
 
 ## 📧 Send Customer Invoice Email
 <p align="center">
-  <img src="Kirim Email Pelanggan.png" width="800">
+  <img src="images/Kirim Email Pelanggan.png" width="800">
 </p>
 
 Feature for automatically sending customer invoices via email using SMTP and PHPMailer integration.
