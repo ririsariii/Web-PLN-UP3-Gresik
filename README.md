@@ -62,6 +62,97 @@ System records all admin activities including:
 - Login actions
 
 ---
+# 📸 System Visualization
+
+## 🔑 Login Page
+<p align="center">
+  <img src="Login.png" width="800">
+</p>
+
+User authentication page for admin and staff access with session validation and secure login system.
+
+---
+
+## 📝 Register Page
+<p align="center">
+  <img src="Register.png" width="800">
+</p>
+
+Registration page used by staff or admin to create a new system account.
+
+---
+
+## 📊 Dashboard
+<p align="center">
+  <img src="Dashboard.png" width="800">
+</p>
+
+Main dashboard displaying customer statistics, invoice delivery information, and navigation menus.
+
+---
+
+## 👥 Customer Data Page
+<p align="center">
+  <img src="Halaman Data Pelanggan.png" width="800">
+</p>
+
+Displays all PLN customer data including customer information, email list, and invoice management features.
+
+---
+
+## ➕ Add Customer Data
+<p align="center">
+  <img src="Tambah Data Pelanggan.png" width="800">
+</p>
+
+Feature used to add new PLN customer data into the system database.
+
+---
+
+## 🪟 Add Customer Popup
+<p align="center">
+  <img src="PopUp Tambah Data Pelanggan.png" width="800">
+</p>
+
+Popup form interface for quickly adding customer data directly from the customer management page.
+
+---
+
+## ✏️ Edit Customer Data
+<p align="center">
+  <img src="Edit Data Pelanggan.png" width="800">
+</p>
+
+Allows admin or staff to update customer information and manage active email addresses.
+
+---
+
+## ⚠️ Delete Confirmation Popup
+<p align="center">
+  <img src="Konfirmasi Hapus Data.png" width="800">
+</p>
+
+Confirmation dialog displayed before permanently deleting customer data from the system.
+
+---
+
+## 📤 Upload Invoice Popup
+<p align="center">
+  <img src="PopUp Upload Invoice.png" width="800">
+</p>
+
+Popup interface used to upload monthly electricity invoice files linked to customer data.
+
+---
+
+## 📧 Send Customer Invoice Email
+<p align="center">
+  <img src="Kirim Email Pelanggan.png" width="800">
+</p>
+
+Feature for automatically sending customer invoices via email using SMTP and PHPMailer integration.
+
+---
 
 # 🛠️ Technologies Used
 
